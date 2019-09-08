@@ -56,6 +56,7 @@
     sudo dpkg -i mysql-community-server_5.6.45-1debian9_amd64.deb 
     ```
 4. インストール途中「Configuring mysql-community-server」画面になる．
+
     |項目|パラメータ|
     |:--:|--:|
     |Enter root password| vagrant|
